@@ -23,11 +23,11 @@ To view and interact with the Amazon Clone on your local machine, follow these s
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/soyamparida/ProjectAmazon.git
 Navigate to the project directory:
 bash
 Copy code
-cd amazon-clone
+cd ProjectAmazon.git
 Open index.html in your browser:
 bash
 Copy code
@@ -59,6 +59,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or feedback, please reach out to me via:
 
 Email: soyamparida54@gmail.com
+
 GitHub: @soyamparida
-LinkedIn: soyam parida
+
+LinkedIn: @soyam parida
 
