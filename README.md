@@ -15,6 +15,7 @@ Responsive Design: Fully responsive layout that adapts to different screen sizes
 HTML: For structuring the content.
 
 CSS: For styling and layout design, including flexbox, grid, and responsive design techniques.
+
 🚀 Installation
 
 To view and interact with the Amazon Clone on your local machine, follow these steps:
