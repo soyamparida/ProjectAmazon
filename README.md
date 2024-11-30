@@ -2,7 +2,7 @@
 
 The Amazon Clone project is a frontend-only application built using HTML and CSS. The goal of this project is to recreate the visual elements and layout of the Amazon website, allowing users to navigate through a simulated online store. Although this clone does not include backend functionality, it serves as a foundation for understanding the structure and styling of a modern e-commerce platform.
 
-View the website using by clicking : http://127.0.0.1:3000/index.html
+View the website using by clicking :[ http://127.0.0.1:3000/index.html](http://127.0.0.1:5500/index.html)
 
 🌟 Features
 
